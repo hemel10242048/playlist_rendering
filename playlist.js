@@ -1,7 +1,7 @@
 import songslist from './songslist.js'
 const Playlist=(()=>{
     const songs=songslist;
-    const cpi=2;
+    const cpi=6;
     const currentsong=new Audio(songs[cpi].url);
     const playlistelements=document.querySelector('.playlist')
     const init=()=>{
