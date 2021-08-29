@@ -44,7 +44,7 @@ const songslist=[
     {
         id: '7',
         title: 'Lily',
-        url: 'https://usaupload.com/file/4CX0/Lily.mp3',
+        url: 'https://www.mboxdrive.com/Lily.mp3',
         artist: 'Alan Walker',
         time: '03:25',
     }
